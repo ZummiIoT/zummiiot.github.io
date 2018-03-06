@@ -1,1 +1,3 @@
-Zummi is an integration consept for IoT devices based on [Alpakka](https://developer.lightbend.com/docs/alpakka/current/)
+Zummi IoT Web Pages
+===
+This is the repoistory holding the web page for http://www.zummi.net/
